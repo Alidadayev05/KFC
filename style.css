@@ -391,7 +391,7 @@ body {
 
 .section4 {
   position: relative;
-  background-image: url("/img/social__media_back.jpeg");
+  background-image: url("img/social__media_back.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
